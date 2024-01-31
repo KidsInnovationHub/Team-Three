@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+head {
+  background-color: orange;
+  color: white;
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+.img-container1 {
+  display: flex;
+  justify-content: space-between; /* Adjust as needed to control spacing between images */
+}
+
+.img-wrapper {
+  text-align: center; /* Optional: Center the content inside each wrapper */
+  margin-left: 20px;
+  margin-right: 50px;
+}
+
+.img-container2 {
+  display: flex;
+  justify-content: space-between; /* Adjust as needed to control spacing between images */
+}
+
+.img-wrapper {
+  text-align: center; /* Optional: Center the content inside each wrapper */
+  margin-left: 20px;
+  margin-right: 50px;
+}
